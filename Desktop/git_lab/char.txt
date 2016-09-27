@@ -1,3 +1,7 @@
 asd456
 qwe123
+<<<<<<< HEAD
 zxc789
+=======
+feature
+>>>>>>> new_feature1
